@@ -1,0 +1,105 @@
+{
+    "status": 200,
+    "data": {
+        "br": {
+            "hash": "629b9e5c91c96b9eaf19bb060a14fd5e61093a63",
+            "date": "2021-06-14T14:02:32Z",
+            "image": "https://cdn.fortnite-api.com/news/v2/629b9e5c91c96b9eaf19bb060a14fd5e61093a63.gif",
+            "motds": [
+                {
+                    "id": "e93d596d-82af-4782-8507-0d65e98885d8",
+                    "title": "Rail Gun",
+                    "tabTitle": null,
+                    "body": "There’s nothing quite like using a supercharged Rail Gun blast to take down a Saucer and claim it as your own.",
+                    "image": "https://cdn-live.prm.ol.epicgames.com/prod/MOTD_xHumanWeaponsjp-499a2af6-bb1e-4a7e-8a39-12df284d4ead.jpeg?width=1920",
+                    "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/MOTD_xHumanWeaponsjp-a17c773a-87e1-4d7e-bb02-4913e3d81492.jpeg?width=1024",
+                    "sortingPriority": 100,
+                    "hidden": false
+                },
+                {
+                    "id": "befc6440-df89-4a9d-91cd-af2bf22dcc3e",
+                    "title": "Rapscallion and Scoundrel",
+                    "tabTitle": "New Styles",
+                    "body": "A good thief recognizes a style that’s worth stealing.",
+                    "image": "https://cdn-live.prm.ol.epicgames.com/prod/BR_Jailbirds_MOTD_xj-fff46cde-6653-43e9-a866-d81ba4222299.jpeg?width=1920",
+                    "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/BR_Jailbirds_MOTD_xj-b5eb8107-3625-4476-b9e3-23c5c4419d05.jpeg?width=1024",
+                    "sortingPriority": 90,
+                    "hidden": false
+                },
+                {
+                    "id": "8368767e-8936-4bde-bfa1-267b71728c23",
+                    "title": "Car Fight",
+                    "tabTitle": "Creative Showcase",
+                    "body": "Race to 200 points with 4 teams of 8 in this community made LTM created by SALVAMIRA!",
+                    "image": "https://cdn-live.prm.ol.epicgames.com/prod/BR_CarFight_MOTD_xjp-d6558b68-416c-4d5b-a7ba-791448a32809.jpeg?width=1920",
+                    "tileImage": "https://cdn-live.prm.ol.epicgames.com/prod/BR_CarFight_MOTD_xjp-dfaa361f-e63d-4058-84a8-c23003c821f9.jpeg?width=1024",
+                    "sortingPriority": 80,
+                    "hidden": false
+                }
+            ],
+            "messages": null
+        },
+        "stw": {
+            "hash": "336962968031234255373925ad24a58d82190235",
+            "date": "2021-06-14T14:16:34Z",
+            "image": null,
+            "motds": null,
+            "messages": [
+                {
+                    "title": "Battle Ray-ale",
+                    "body": "Follow Homebase’s newest Hero in their mission to join the fight against the Husky forces of evil in this new mini-questline! Complete this questline to earn Legendary Flux, XP, and Evolution Materials.",
+                    "image": "https://cdn2.unrealengine.com/09stw-neighborhoodwatch-motd-1024x512-287199467.jpg",
+                    "adspace": "NEW MINI-QUESTLINE"
+                },
+                {
+                    "title": "Bowler",
+                    "body": "Show the Husks no quarter with the might of the Bowler!",
+                    "image": "https://cdn2.unrealengine.com/08stw-bowler-motd-1024x512-10aa4de0ba38.jpg",
+                    "adspace": "EVENT STORE"
+                }
+            ]
+        },
+        "creative": {
+            "hash": "3005d74c0df6d35625f4a770804399360ddb6442",
+            "date": "2021-06-14T14:16:34Z",
+            "image": "https://cdn.fortnite-api.com/news/v2/3005d74c0df6d35625f4a770804399360ddb6442.gif",
+            "motds": [
+                {
+                    "id": "MOTD_PUB_SHOP_FN-BR_JAILBIRD-SET_0610",
+                    "title": "Rapscallion and Scoundrel",
+                    "tabTitle": "New Styles",
+                    "body": "A good thief recognizes a style that’s worth stealing.",
+                    "image": "https://cdn2.unrealengine.com/17br-jailbirds-motd-1920x1080-1920x1080-3f629a7a9587.jpg",
+                    "tileImage": "https://cdn2.unrealengine.com/17br-jailbirds-motd-1024x512-1024x512-8e8ae6151153.jpg",
+                    "sortingPriority": 70,
+                    "hidden": false
+                },
+                {
+                    "id": "MOTD_PUB_CONTENT_FN-CR_CAR-FIGHT-CLTM_0614",
+                    "title": "Car Fight",
+                    "tabTitle": "Creative Showcase",
+                    "body": "Race to 200 points with 4 teams of 8 in this community made LTM created by SALVAMIRA!",
+                    "image": "https://cdn2.unrealengine.com/17br-carfight-motd-1920x1080-1920x1080-aae5c7a28118.jpg",
+                    "tileImage": "https://cdn2.unrealengine.com/17br-carfight-motd-1024x512-1024x512-0fe2c269d2eb.jpg",
+                    "sortingPriority": 40,
+                    "hidden": false,
+                    "videoString": "CLTM_RGYPCarFight",
+                    "videoId": "VzqLjJxzghRSACdXpt"
+                },
+                {
+                    "id": "MOTD_PUB_CONTENT_FN-CR_VEHICLE-HUB-CLTM_0611",
+                    "title": "Top Vehicle Games Showcase",
+                    "tabTitle": null,
+                    "body": "Check out some of the hottest new vehicle based games in Creative with this custom hub built by FIVEWALNUT!",
+                    "image": "https://cdn2.unrealengine.com/vehiclehub-motd-1920x1080-24851b06e81e.jpg",
+                    "tileImage": "https://cdn2.unrealengine.com/vehiclehub-tile-1024x512-372b02f0ed70.jpg",
+                    "sortingPriority": 30,
+                    "hidden": false,
+                    "videoString": "CLTM_VehicleHub",
+                    "videoId": "VtRafxstphmGicWjSt"
+                }
+            ],
+            "messages": null
+        }
+    }
+}

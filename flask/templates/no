@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.0828,
+                    55.5575
+                ],
+                "type": "Point"
+            },
+            "id": "00000001-30ad-ae74-5b33-7ef0a1a6ef92",
+            "type": "Feature",
+            "properties": {
+                "created": "2021-01-20T01:07:45.306987Z",
+                "observed": "2015-09-11T10:10:00Z",
+                "parameterId": "temp_dew",
+                "stationId": "06081",
+                "value": 11.4
+            }
+        }
+    ],
+    "timeStamp": "2021-06-21T16:17:22Z",
+    "numberReturned": 1,
+    "links": [
+        {
+            "href": "https://dmigw.govcloud.dk/v2/metObs/collections/observation/items?api-key=c2595e09-ffda-4128-80d5-9ca74ced0412&limit=1",
+            "rel": "self",
+            "type": "application/geo+json",
+            "title": "This document"
+        },  
+        {
+            "href": "https://dmigw.govcloud.dk/v2/metObs/collections/observation/items?api-key=c2595e09-ffda-4128-80d5-9ca74ced0412&limit=1&offset=1",
+            "rel": "next",
+            "type": "application/geo+json",
+            "title": "Next set of results"
+        }
+    ]
+}
